@@ -1,4 +1,6 @@
-numero = int(input("Ingrese un al que desea sumar sus digitos: "))
+#https://youtube.com/shorts/DySjR7Ex4bM?si=7_pjF7oww3kLVQLH
+
+numero = int(input("Ingrese un numero al que desea sumar sus digitos: "))
 total = 0
 
 def sumardig_for(numero: int) -> int:
