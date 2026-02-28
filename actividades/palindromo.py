@@ -1,4 +1,4 @@
-#https://youtu.be/9JzD1dGOMg4?si=6UZg-dGpv0DrIB4b
+#https://youtu.be/8NKRFdiCD7o?si=ntgqMb5X2U8SG3F6
 
 palabra = input("Ingrese una palabra: ")
 
